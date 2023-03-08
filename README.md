@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-pcosta99.vercel.app/api/top-langs/?username=pCosta99&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/pCosta99/github-readme-stats)
+
