@@ -1,3 +1,39 @@
-[![pCosta99's GitHub stats](https://github-readme-stats-pcosta99.vercel.app/api?username=pCosta99&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/pCosta99/github-readme-stats)
+# 👋 Hi there, I'm Pedro!
 
-[![Top Langs](https://github-readme-stats-pcosta99.vercel.app/api/top-langs/?username=pCosta99&layout=compact&theme=vision-friendly-dark&hide=java,html,roff,c,prolog,python)](https://github.com/pCosta99/github-readme-stats)
+I'm passionate about blockchain, Linux, and backend web development. Welcome to my GitHub! 🚀
+
+## 🔧 Technologies & Tools
+
+### Blockchain ⛓️
+Never worked professionaly on Blockchain, it's on my bucket list, along with learning Rust!
+- Solidity
+- Plutus: Cardano smart contract programming language (did the Pioneer program at the time)
+
+### Riced Linux 🐧
+- [neovim](https://github.com/neovim/neovim)
+- [i3](https://i3wm.org/)
+- [polybar](https://github.com/polybar/polybar)
+- [Oh My ZSH!](https://ohmyz.sh/)
+- [alacritty](https://github.com/alacritty/alacritty)
+
+### Web Development (Backend first) 💻
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,elixir,python,haskell,tailwindcss" />
+  </a>
+</p>
+
+## 🌱 Other hobbies
+
+- Music 🥁
+- Travelling ✈️
+- Chess ♟️
+
+## 📫 Let's Connect
+
+Feel free to reach out if you share similar interests or have any questions! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-costa-3b0637202)
+- [Twitter](https://twitter.com/iampcosta)
+
+Happy coding! 😊
