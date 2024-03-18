@@ -23,7 +23,7 @@ Never worked professionaly on Blockchain, it's on my bucket list, along with lea
   </a>
 </p>
 
-## 🌱 Other hobbies
+## 🌱 Random current hobbies that I spend varying amounts of time on 😄
 
 - Music 🥁
 - Travelling ✈️
